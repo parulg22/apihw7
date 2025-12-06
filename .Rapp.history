@@ -1,0 +1,2 @@
+setwd("/Users/pg/Homework7")
+source("HW7_client_test.R")
